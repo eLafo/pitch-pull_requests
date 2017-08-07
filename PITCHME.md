@@ -9,9 +9,10 @@ What problem is the PR I am reviewing trying to solve?
 - setting up the constraints
 - forcing me to focus on **one** problem only
 +++
-## I do not look at the code after having understood the problem. If I don't understand it, then I will ask someone to explain it to me
+## I do not look at the code after having understood the problem.
+#### If I don't understand it, then I will ask someone to explain it to me
 +++
-## How I do this?
+## How do I do this?
 1. Reading the PR documentation
 2. Readng the related US/task/issue
 3. If some of them are missing... **SHAME ON YOU!!!**
