@@ -3,9 +3,9 @@
 # Do I understand the **WHY**?
 What problem is the PR I am reviewing trying to solve?
 +++
-- I must be sure to understand the problem **before** diving into the solution
-- Understanding the problem, helps me by setting up some constraints and by forcing me to focus one **one** problem only
-- I should be able to understand the problem without looking at the code.
+## I must be sure to understand the problem **before** diving into the solution
+### Understanding the problem, helps me by setting up some constraints and by forcing me to focus one **one** problem only
+I do not look at the code after having understood the problem. If I don't understand it, then I will ask someone to explain it to me
 +++
 1. Read the PR documentation
 2. Read the related US/task/issue
